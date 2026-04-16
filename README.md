@@ -70,7 +70,4 @@ I like spending time building what I’m passionate about, especially projects a
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=susilkessav&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susilkessav&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=susilkessav&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=susilkessav&hide_border=true" alt="GitHub Streak" height="150" /> </p>
